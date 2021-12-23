@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChrisRoney
+- 👋 Hi, I’m @chrisroney
 - 👀 I’m interested in tech, cars and aeroplanes
 - 🌱 I’m currently learning in St Declan's Secondary School
 - 💞️ I’m looking to collaborate on many big scale coding projects and businesses
